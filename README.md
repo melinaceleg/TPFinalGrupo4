@@ -1,4 +1,4 @@
-# TPFinalGrupo4
+# Trabajo Final Programación III Grupo 4
 Proyecto Final Programación III
-->Informe en carpeta Informe y Diagrama
+->Informe: Carpeta InformeyDiagrama
 ->Aplicación: Carpeta TPFinal
